@@ -7,6 +7,9 @@
 
 > **A professional-grade biotech data analysis platform for pharmaceutical compound screening and structure-activity relationship (SAR) analysis.**
 
+### 🎬 Interactive Demo
+![Demo GIF](images_and_gif/demo.gif)
+
 ## 🌟 **[🚀 LIVE DEMO - Click Here!](https://drug-discovery-analyzer.streamlit.app/)**
 
 *Try the interactive dashboard instantly - no installation required!*
@@ -44,10 +47,6 @@ This interactive web application bridges the gap between raw chemical data and a
 ![Dashboard Overview](images_and_gif/dashboard_overview.png)
 *Main dashboard showing compound filtering and overview metrics*
 
-### 🎬 Interactive Demo
-![Demo GIF](images_and_gif/demo.gif)
-
-*Watch the dashboard in action - real-time filtering and visualization updates*
 
 ### Interactive Visualizations
 
