@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ChEMBL](https://img.shields.io/badge/Data-ChEMBL-green.svg)](https://www.ebi.ac.uk/chembl/)
 
-> **A professional-grade biotech data analysis platform for pharmaceutical compound screening and structure-activity relationship (SAR) analysis.**
+> **A  biotech data analysis platform for pharmaceutical compound screening and structure-activity relationship (SAR) analysis.**
 
 ### 🎬 Interactive Demo
 ![Demo GIF](images_and_gif/demo.gif)
