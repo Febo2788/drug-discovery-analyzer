@@ -7,6 +7,12 @@
 
 > **A professional-grade biotech data analysis platform for pharmaceutical compound screening and structure-activity relationship (SAR) analysis.**
 
+## 🌟 **[🚀 LIVE DEMO - Click Here!](https://drug-discovery-analyzer.streamlit.app/)**
+
+*Try the interactive dashboard instantly - no installation required!*
+
+---
+
 ## 🎯 Project Overview
 
 This interactive web application bridges the gap between raw chemical data and actionable insights in drug discovery. Built for biotech professionals, it enables rapid analysis of compound libraries using industry-standard metrics and visualizations.
@@ -42,32 +48,26 @@ This interactive web application bridges the gap between raw chemical data and a
 
 #### 1. Lipinski Plot (LogP vs Molecular Weight)
 ![Lipinski Plot](images_and_gif/lipinski_plot.png)
-
 *Visualization of drug-like space with compounds colored by potency (pIC50). Shows the relationship between lipophilicity and molecular size, with Lipinski's Rule of 5 boundaries highlighted.*
 
 #### 2. Triangular Correlation Heatmap  
 ![Correlation Heatmap](images_and_gif/correlation_heatmap.png)
-
 *Triangular correlation matrix eliminating redundancy. Red indicates positive correlations, blue shows negative correlations. Essential for understanding relationships between molecular properties.*
 
 #### 3. Property Distribution Analysis
 ![Property Distributions](images_and_gif/property_distributions.png)
-
 *Histogram analysis showing the distribution of key molecular properties (MW, LogP, HBD, HBA, PSA, pIC50). Critical for understanding the chemical space coverage of compound libraries.*
 
 #### 4. Drug-Likeness Comparison
 ![Drug Likeness Comparison](images_and_gif/drug_likeness_comparison.png)
-
 *Box plot comparison of molecular properties between drug-like and non-drug-like compounds based on Lipinski's Rule of 5. Reveals property trends for developable compounds.*
 
 #### 5. Target-Specific Chemical Space
 ![Target Analysis](images_and_gif/target_analysis.png)
-
 *Violin plots showing how different protein targets prefer distinct molecular property profiles. Essential for target-focused library design.*
 
 #### 6. 2D Density Analysis
 ![Density Heatmap](images_and_gif/density_heatmap.png)
-
 *2D density visualization of compound distribution in physicochemical space. Bright areas indicate high compound density, revealing popular regions for drug development.*
 
 ---
@@ -176,4 +176,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with passion for my classmate*
+*Built for a friend*
