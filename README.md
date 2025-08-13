@@ -186,4 +186,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built for a friend*
+*Built for a friend. Thank you Stephanie for teaching me about how to present chemoinformmatics!!*
