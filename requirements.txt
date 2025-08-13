@@ -1,0 +1,8 @@
+pandas
+streamlit
+numpy
+matplotlib
+seaborn
+chembl_webresource_client
+plotly
+pytest
