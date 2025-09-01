@@ -33,9 +33,8 @@ This interactive web application bridges the gap between raw chemical data and a
 - **Real-time Data Processing**: ChEMBL API integration for live pharmaceutical data
 - **Interactive Filtering**: Multi-parameter compound filtering with instant updates  
 - **Publication-Quality Visualizations**: Correlation heatmaps, density plots, and SAR analysis
-- **Industry-Standard Metrics**: Lipinski Rule of 5, pIC50 calculations, drug-likeness scoring
+- **Standard Metrics**: Lipinski Rule of 5, pIC50 calculations, drug-likeness scoring
 - **Target-Specific Analysis**: Compare molecular properties across different protein targets
-- **Professional UI**: Clean, biotech-focused interface with scientific explanations
 
 ---
 
