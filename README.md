@@ -1,4 +1,4 @@
-# 🔬 Interactive Drug Discovery Dashboard
+# Interactive Drug Discovery Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-red.svg)](https://streamlit.io/)
@@ -7,28 +7,28 @@
 
 > **A  biotech data analysis platform for pharmaceutical compound screening and structure-activity relationship (SAR) analysis.**
 
-### 🎬 Interactive Demo
+### Interactive Demo
 ![Demo GIF](images_and_gif/demo.gif)
 
-## 🌟 **[🚀 LIVE DEMO - Click Here!](https://drug-discovery-analyzer.streamlit.app/)**
+## **[ LIVE DEMO - Click Here!](https://drug-discovery-analyzer.streamlit.app/)**
 
 *Try the interactive dashboard instantly - no installation required!*
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This interactive web application bridges the gap between raw chemical data and actionable insights in drug discovery. Built for biotech professionals, it enables rapid analysis of compound libraries using industry-standard metrics and visualizations.
 
 ### Key Applications in Biotech
-- **🎯 Hit Identification**: Screen thousands of compounds against activity and property criteria
-- **🧬 Lead Optimization**: Analyze structure-activity relationships to guide medicinal chemistry
-- **⚖️ Candidate De-risking**: Apply Lipinski's Rule of 5 and ADMET filters early in the pipeline
-- **📊 Portfolio Analysis**: Compare compound properties across different therapeutic targets
+- **Hit Identification**: Screen thousands of compounds against activity and property criteria
+- **Lead Optimization**: Analyze structure-activity relationships to guide medicinal chemistry
+- **Candidate De-risking**: Apply Lipinski's Rule of 5 and ADMET filters early in the pipeline
+- **Portfolio Analysis**: Compare compound properties across different therapeutic targets
 
 ---
 
-## ✨ Features
+## Features
 
 - **Real-time Data Processing**: ChEMBL API integration for live pharmaceutical data
 - **Interactive Filtering**: Multi-parameter compound filtering with instant updates  
@@ -38,9 +38,9 @@ This interactive web application bridges the gap between raw chemical data and a
 
 ---
 
-## 🚀 Live Demo & Screenshots
+## Live Demo & Screenshots
 
-### **[🌟 Try the Interactive Dashboard](https://drug-discovery-analyzer.streamlit.app/)**
+### **[Try the Interactive Dashboard](https://drug-discovery-analyzer.streamlit.app/)**
 *Click above for instant access - no installation required!*
 
 ![Dashboard Overview](images_and_gif/dashboard_overview.png)
@@ -81,7 +81,7 @@ This interactive web application bridges the gap between raw chemical data and a
 
 ---
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -116,7 +116,7 @@ Upload a CSV file with the following required columns:
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ```
 drug-discovery-analyzer/
@@ -141,7 +141,7 @@ drug-discovery-analyzer/
 
 ---
 
-## 🧪 Scientific Methods
+## Scientific Methods
 
 ### Lipinski's Rule of 5
 Evaluates oral bioavailability using four key criteria:
@@ -161,7 +161,7 @@ Analyzes correlations between molecular properties and biological activity to gu
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
